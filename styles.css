@@ -8,12 +8,12 @@ footer a {
     color: #70726F;
     font-size: 20px;
     padding: 10px;
-    border-right: 1px solid #70726F;
+    border-right: 1px solid #5cd320;
     transition: all .5s ease;
 }
 
 footer a:first-child {
-    border-left: 1px solid #70726F;
+    border-left: 1px solid #62e421;
 }
 
 footer a:hover {
